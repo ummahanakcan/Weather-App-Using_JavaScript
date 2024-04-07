@@ -12,5 +12,5 @@
 
     [CORS (Cross-origin Resource Sharing) Nedir? Same Origin Policy, Origin Kavramları](https://www.youtube.com/watch?v=SYZXu-cDpR0&ab_channel=ResulBozburun)
 
-  - You may explore the following project, which I implemented using the $ajax() API, to gain further insight into API usage
+- You may explore the following project, which I implemented using the $ajax() API, to gain further insight into API usage
   
