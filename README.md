@@ -4,7 +4,7 @@
 ![image](weather-app.png)
 
 ## Project Overview
-- Throughout the project, I found it necessary to utilize the Fetch API, which prompted me to conduct comprehensive research on APIs, HTTP, CORS, and async-await structures. You may refer to the following sources for further information.
+- Throughout the project, I found it necessary to utilize the Fetch API and SCSS, which prompted me to conduct comprehensive research on APIs, HTTP, CORS, and async-await structures. You may refer to the following sources for further information.
 
     [What is Cross-Origin Resource Sharing (CORS)?-Medium](edium.com/@techworldwithmilan/what-is-cross-origin-resource-sharing-cors-c714ef6b40f6)
  
